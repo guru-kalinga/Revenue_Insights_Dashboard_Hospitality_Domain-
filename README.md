@@ -114,14 +114,6 @@ E --> F[Dashboard Publishing]
 
 ---
 
-## 📚 References
-
-- [Codebasics Resume Project Challenge](https://codebasics.io/challenges)
-- [Power BI Documentation](https://learn.microsoft.com/en-us/power-bi/)
-- [RevPAR in Hospitality](https://www.hvs.com/article/9475-revpar-goppar)
-
----
-
 ## 🧪 How to Use
 
 1. Clone this repository.
